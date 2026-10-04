@@ -32,6 +32,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# Local task prompt
+/Prompt maestro — Tarea 17_ Frontend E-commerce Next.js conectado a API Laravel existente.md
 
 # vercel
 .vercel
